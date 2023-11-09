@@ -1,4 +1,9 @@
-﻿namespace Ritola_LinkedList
+﻿// Juliea Ritola
+// IT113
+// NOTES: 
+// BEHAVIORS NOT IMPLIMENTED AND WHY:
+
+namespace Ritola_LinkedList
 {
 	internal class Program
 	{
