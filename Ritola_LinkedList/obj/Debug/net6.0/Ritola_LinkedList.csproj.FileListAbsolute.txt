@@ -1,0 +1,15 @@
+D:\School\Programming III\Ritola_LinkedList_Solution\Ritola_LinkedList\bin\Debug\net6.0\Ritola_LinkedList.exe
+D:\School\Programming III\Ritola_LinkedList_Solution\Ritola_LinkedList\bin\Debug\net6.0\Ritola_LinkedList.deps.json
+D:\School\Programming III\Ritola_LinkedList_Solution\Ritola_LinkedList\bin\Debug\net6.0\Ritola_LinkedList.runtimeconfig.json
+D:\School\Programming III\Ritola_LinkedList_Solution\Ritola_LinkedList\bin\Debug\net6.0\Ritola_LinkedList.dll
+D:\School\Programming III\Ritola_LinkedList_Solution\Ritola_LinkedList\bin\Debug\net6.0\Ritola_LinkedList.pdb
+D:\School\Programming III\Ritola_LinkedList_Solution\Ritola_LinkedList\obj\Debug\net6.0\Ritola_LinkedList.csproj.AssemblyReference.cache
+D:\School\Programming III\Ritola_LinkedList_Solution\Ritola_LinkedList\obj\Debug\net6.0\Ritola_LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Programming III\Ritola_LinkedList_Solution\Ritola_LinkedList\obj\Debug\net6.0\Ritola_LinkedList.AssemblyInfoInputs.cache
+D:\School\Programming III\Ritola_LinkedList_Solution\Ritola_LinkedList\obj\Debug\net6.0\Ritola_LinkedList.AssemblyInfo.cs
+D:\School\Programming III\Ritola_LinkedList_Solution\Ritola_LinkedList\obj\Debug\net6.0\Ritola_LinkedList.csproj.CoreCompileInputs.cache
+D:\School\Programming III\Ritola_LinkedList_Solution\Ritola_LinkedList\obj\Debug\net6.0\Ritola_LinkedList.dll
+D:\School\Programming III\Ritola_LinkedList_Solution\Ritola_LinkedList\obj\Debug\net6.0\refint\Ritola_LinkedList.dll
+D:\School\Programming III\Ritola_LinkedList_Solution\Ritola_LinkedList\obj\Debug\net6.0\Ritola_LinkedList.pdb
+D:\School\Programming III\Ritola_LinkedList_Solution\Ritola_LinkedList\obj\Debug\net6.0\Ritola_LinkedList.genruntimeconfig.cache
+D:\School\Programming III\Ritola_LinkedList_Solution\Ritola_LinkedList\obj\Debug\net6.0\ref\Ritola_LinkedList.dll
